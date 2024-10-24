@@ -15,8 +15,19 @@ header {
 }
 
 .escola-div-conteudo{
-    width: 35%;
+    width: 10%;
 }
 .escola-titulo{
     padding: 24px 0;
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+body.{
+roboto-slab-<uniquifier> 
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
